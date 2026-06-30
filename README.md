@@ -140,4 +140,4 @@ Cyberpunk-themed interactive game/experience.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f5b942&height=120&section=footer&flip=true" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
