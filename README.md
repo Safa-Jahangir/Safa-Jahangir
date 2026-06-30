@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Safa%20Jahangir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GDG%20Lead&descAlignY=58&descSize=18&descColor=f5b942" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f5b942&height=220&section=header&text=Safa%20Jahangir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=f5b942" width="100%"/>
 
 <p align="center">
-  <b>Building AI systems that detect misinformation</b><br>
+  <b>Engineering intelligent systems and interactive AI solutions</b><br>
   Software Engineering @ FJWU &nbsp;|&nbsp; Batch 2023–2027<br>
-  Director, Developer Team @ GDG on Campus FJWU
 </p>
 
 </div>
@@ -18,9 +17,7 @@
 role: Software Engineering Student & AI/ML Developer
 university: Fatima Jinnah Women's University (FJWU), Rawalpindi
 batch: 2023 - 2027
-leadership: Director, Developer Team @ GDG on Campus FJWU
-internships: [CodeAlpha (C++), Elevvo (Frontend Development)]
-focus: ["NLP & Misinformation Detection", "Predictive ML Systems", "Full-Stack AI Tools"]
+focus: ["Predictive ML Systems", "Full-Stack AI Tools"]
 currently_seeking: AI/ML & Software Engineering Internships
 ```
 
@@ -35,10 +32,12 @@ currently_seeking: AI/ML & Software Engineering Internships
 ### 🛡️ Urdu Fake News Detection System
 A 3-layer hybrid pipeline combining classical ML with LLM-based fact verification.
 
-- **Layer 1:** SVM + Logistic Regression on TF-IDF features (SMOTE-balanced, ~89–91% accuracy)
-- **Layer 2:** Groq LLM (Llama-3.1-8B) claim extraction + Google News RSS verification
-- **Layer 3:** Wikipedia + Google News entity cross-checking
-- **Stack:** Python · scikit-learn · Streamlit · Groq API
+<ul>
+  <li><b>Layer 1:</b> SVM + Logistic Regression on TF-IDF features (SMOTE-balanced, ~89–91% accuracy)</li>
+  <li><b>Layer 2:</b> Groq LLM (Llama-3.1-8B) claim extraction + Google News RSS verification</li>
+  <li><b>Layer 3:</b> Wikipedia + Google News entity cross-checking</li>
+  <li><b>Stack:</b> Python · scikit-learn · Streamlit · Groq API</li>
+</ul>
 
 `#NLP` `#Misinformation` `#UrduLanguage` `#HybridAI`
 
@@ -48,11 +47,13 @@ A 3-layer hybrid pipeline combining classical ML with LLM-based fact verificatio
 ### 🧭 SkillPath
 AI-powered developer learning roadmap generator, deployed and SEO-indexed.
 
-- Dynamic roadmap generation via Claude API
-- Serverless architecture on Vercel
-- Full SEO setup: sitemap, robots.txt, OG meta tags
+<ul>
+  <li>Dynamic roadmap generation via Claude API</li>
+  <li>Serverless architecture on Vercel</li>
+  <li>Full SEO setup: sitemap, robots.txt, OG meta tags</li>
+</ul>
 
-**Live:** [skill-path-swart.vercel.app](https://skill-path-swart.vercel.app)
+**Live:** [skill-path-swart.vercel.app](https://skill-path-swart.vercel.app)  
 **Stack:** HTML · CSS · JavaScript · Claude API · Vercel
 
 `#GenAI` `#WebApp` `#DeveloperTools`
@@ -65,9 +66,11 @@ AI-powered developer learning roadmap generator, deployed and SEO-indexed.
 ### 🦠 Infectious Disease Prediction
 ML-based outbreak prediction system with confidence bounds.
 
-- Predictive modeling with scikit-learn + joblib
-- *In progress:* multi-agent architecture & upper/lower prediction bounds
-- **Stack:** Python · Streamlit · scikit-learn
+<ul>
+  <li>Predictive modeling with scikit-learn + joblib</li>
+  <li><i>In progress:</i> multi-agent architecture & upper/lower prediction bounds</li>
+  <li><b>Stack:</b> Python · Streamlit · scikit-learn</li>
+</ul>
 
 `#PredictiveML` `#HealthTech`
 
@@ -77,8 +80,10 @@ ML-based outbreak prediction system with confidence bounds.
 ### 🎮 Kronos: The Midnight Core
 Cyberpunk-themed interactive game/experience.
 
-- React front end deployed via Google Cloud Run
-- **Stack:** React · Google Cloud Run
+<ul>
+  <li>React front end deployed via Google Cloud Run</li>
+  <li><b>Stack:</b> React · Google Cloud Run</li>
+</ul>
 
 `#React` `#CloudDeploy` `#GameDev`
 
@@ -111,16 +116,16 @@ Cyberpunk-themed interactive game/experience.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safa-Jahangir&show_icons=true&theme=darktheme=darkhide_border=true&bg_color=0d1117&title_color=f5b942&icon_color=ffffff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa-Jahangir&layout=compact&theme=darktheme=darkhide_border=true&bg_color=0d1117&title_color=f5b942&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safa-Jahangir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5b942&icon_color=ffffff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa-Jahangir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5b942&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Safa-Jahangir&theme=darktheme=darkhide_border=true&background=0d1117&ring=f5b942&fire=ffffff&currStreakLabel=f5b942" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Safa-Jahangir&theme=tokyonight&hide_border=true&background=0d1117&ring=f5b942&fire=ffffff&currStreakLabel=f5b942" />
 
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safa-Jahangir&theme=darktheme=darkhide_border=true&bg_color=0d1117&color=f5b942&line=ffffff&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safa-Jahangir&theme=darktheme&hide_border=true&bg_color=0d1117&color=f5b942&line=ffffff&point=ffffff" width="100%"/>
 
 <br><br>
 
@@ -131,8 +136,8 @@ Cyberpunk-themed interactive game/experience.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safa-jahangir)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safajhngr09@gmail.com)
 
-
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f5b942&height=120&section=footer&flip=true" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
