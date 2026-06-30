@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Safa%20Jahangir&fontSize=46&fontColor=b39ddb&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GDG%20Lead&descAlignY=58&descSize=18&descColor=9575cd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Safa%20Jahangir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GDG%20Lead&descAlignY=58&descSize=18&descColor=f5b942" width="100%"/>
 
-<a href="https://github.com/Safa-Jahangir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=b39ddb&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+detect+misinformation;Software+Engineering+%40+FJWU+%7C+Batch+2023-2027;Director%2C+Developer+Team+%40+GDG+on+Campus+FJWU;NLP+%2B+ML+%2B+Full-Stack+Development" alt="Typing SVG" />
-</a>
+<p align="center">
+  <b>Building AI systems that detect misinformation</b><br>
+  Software Engineering @ FJWU &nbsp;|&nbsp; Batch 2023–2027<br>
+  Director, Developer Team @ GDG on Campus FJWU
+</p>
 
 </div>
 
@@ -109,16 +111,16 @@ Cyberpunk-themed interactive game/experience.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safa-Jahangir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=b39ddb&icon_color=9575cd&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa-Jahangir&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=b39ddb&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safa-Jahangir&show_icons=true&theme=darktheme=darkhide_border=true&bg_color=0d1117&title_color=f5b942&icon_color=ffffff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa-Jahangir&layout=compact&theme=darktheme=darkhide_border=true&bg_color=0d1117&title_color=f5b942&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Safa-Jahangir&theme=dark&hide_border=true&background=0d1117&ring=b39ddb&fire=9575cd&currStreakLabel=b39ddb" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Safa-Jahangir&theme=darktheme=darkhide_border=true&background=0d1117&ring=f5b942&fire=ffffff&currStreakLabel=f5b942" />
 
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safa-Jahangir&theme=dark&hide_border=true&bg_color=0d1117&color=b39ddb&line=9575cd&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safa-Jahangir&theme=darktheme=darkhide_border=true&bg_color=0d1117&color=f5b942&line=ffffff&point=ffffff" width="100%"/>
 
 <br><br>
 
@@ -129,7 +131,7 @@ Cyberpunk-themed interactive game/experience.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safa-jahangir)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safajhngr09@gmail.com)
 
-📧 safajhngr09@gmail.com
+
 
 </div>
 
